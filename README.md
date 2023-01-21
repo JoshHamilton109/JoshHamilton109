@@ -1,6 +1,6 @@
 # Hi there, I'm Josh
-- 👨‍💻 I’m currently working as a full-time Data Scientist in Publishing/Advertising within Life Sciences.
-- :rocket: My dream is to work in the Military/Defense industry.
+- 👨‍💻 I’m currently working as a full-time Affordibility Analyst/Data Scientist in Military/Defense Space.
+- :rocket: My dream has always been to work in the Military/Defense industry and serve my country in a meaningful way.
 - :infinity: I love being challenged with difficult or innovative projects.
 - :nerd_face: I’m currently learning Natural Language Processing and Deep Learning.
 - :zap: Fun Fact: I enjoy running, climbing, and puzzles.
